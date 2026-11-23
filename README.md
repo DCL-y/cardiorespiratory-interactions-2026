@@ -1,0 +1,1 @@
+Landing pages for DOI registration (Crossref via UkrINTEI): Romanchuk O. P., Guzii O. V. Cardiorespiratory interactions in sport and physical rehabilitation: monograph. Lviv, 2026. ISBN 978-617-8996-06-2.
