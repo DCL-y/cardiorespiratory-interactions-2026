@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dcl-y.github.io/cardiorespiratory-interactions-2026/sitemap.xml
